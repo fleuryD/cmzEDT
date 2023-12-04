@@ -5,7 +5,8 @@
 
 cmzEDT est un outil en ligne gratuit, permettant de créer et de consulter facilement les postages de la vie scolaire.
 
-![cmzEDT](https://cmzedt.zedixi.com/img/landing/postages2.png) 
+<img src="https://cmzedt.zedixi.com/img/landing/postages2.png" width="500" >
+
 
 
 ## Site web
@@ -19,6 +20,9 @@ Placez un favoris sur les PC de la vie sco et sur votre téléphone pour consult
 
 ![cmzEDT](https://cmzedt.zedixi.com/img/landing/gif-smartphone.gif) 
 
+<img src="https://cmzedt.zedixi.com/img/landing/gif-smartphone.gif" width="500" >
+
+
 ## Créez des EDT sur mesure.
 
 - Personnalisez les horaires et sonneries de l'EDT.
@@ -27,13 +31,14 @@ Placez un favoris sur les PC de la vie sco et sur votre téléphone pour consult
 - Prise en charge des établissements avec internat.
 - Prise en charge des semaines A et B.
 
-![cmzEDT](https://cmzedt.zedixi.com/img/landing/postages2-horizontal.png) 
+
+<img src="https://cmzedt.zedixi.com/img/landing/postages2-horizontal.png" width="500" >
 
 ## Simple et intuitif.
 
 Placez les horaires et les postages en les "peignant" sur la grille avec la souris.
 
-![cmzEDT](https://cmzedt.zedixi.com/img/landing/gif-postages3.gif) 
+<img src="https://cmzedt.zedixi.com/img/landing/gif-postages3.gif" width="500" >
 
 ## Autres fonctionnalités.
 
