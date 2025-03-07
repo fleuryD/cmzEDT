@@ -1,13 +1,10 @@
-
 # cmzEDT
 
-![cmzEDT](https://cmzedt.zedixi.com/img/app-logo/app-logo-96.png) 
+![cmzEDT](https://cmzedt.zedixi.com/img/app-logo/app-logo-96.png)
 
 cmzEDT est un outil en ligne gratuit, permettant de créer et de consulter facilement les postages de la vie scolaire.
 
 <img src="https://cmzedt.zedixi.com/img/landing/postages2.png" width="500" >
-
-
 
 ## Site web
 
@@ -19,10 +16,9 @@ cmzEDT est un outil en ligne gratuit, permettant de créer et de consulter facil
 
 Placez un favoris sur les PC de la vie sco et sur votre téléphone pour consulter les postages du jour en quelques secondes.
 
-![cmzEDT](https://cmzedt.zedixi.com/img/landing/gif-smartphone.gif) 
+![cmzEDT](https://cmzedt.zedixi.com/img/landing/gif-smartphone.gif)
 
 <img src="https://cmzedt.zedixi.com/img/landing/gif-smartphone.gif" width="500" >
-
 
 ## Créez des EDT sur mesure.
 
@@ -31,7 +27,6 @@ Placez un favoris sur les PC de la vie sco et sur votre téléphone pour consult
 - Personnalisez les Postes (Vie sco, Portail, Etude...) avec des couleurs et des déscriptions.
 - Prise en charge des établissements avec internat.
 - Prise en charge des semaines A et B.
-
 
 <img src="https://cmzedt.zedixi.com/img/landing/postages2-horizontal.png" width="500" >
 
@@ -49,16 +44,12 @@ Placez les horaires et les postages en les "peignant" sur la grille avec la sour
 - Contrairement à un fichier excel, plusieurs utilisateurs peuvent consulter ou éditer un EDT en même temps.
 - Les AED verront automatiquement les modifications que vous apporterez à un EDT.
 - Vous n'avez plus besoin de le réimprimer (et La planète vous remerciera).
-Envoi d'invitations par mail aux personnels pour qu'ils se créent un compte.
-
+  Envoi d'invitations par mail aux personnels pour qu'ils se créent un compte.
 
 ## Technologies Utilisées
-
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="60" height="60"/></a>
-
-Le code est privé!
